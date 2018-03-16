@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3831200501
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08f6c6224edabc15a24aeef7ad1cd6a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8d068741ae817c9b5c92580f37de87e3
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Models/Units/Npc/hans/Materials/npc_hans.mat
+Dependencies:
+- D:/Project/unity/AosUnityFramework/Art/../RunTimeResources/PC/StreamingAssets/assets/res/models/units/npc/hans/texture/npc_hans_share.unity3d

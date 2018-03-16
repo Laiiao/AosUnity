@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 656433169
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets/bundles/unit/npc/npc_hans.unity3d
+      Dependencies:
+        Dependency_0: assets/res/models/units/npc/hans/npc_hans_share.unity3d
+        Dependency_1: assets/res/models/units/npc/hans/materials/npc_hans_share.unity3d
+    Info_1:
+      Name: assets/bundles/unit/npc/npc_hans2.unity3d
+      Dependencies:
+        Dependency_0: assets/res/models/units/npc/hans/npc_hans_share.unity3d
+        Dependency_1: assets/res/models/units/npc/hans/materials/npc_hans_share.unity3d
+    Info_2:
+      Name: assets/res/models/units/npc/hans/npc_hans_share.unity3d
+      Dependencies:
+        Dependency_0: assets/res/models/units/npc/hans/materials/npc_hans_share.unity3d
+    Info_3:
+      Name: assets/res/models/units/npc/hans/texture/npc_hans_share.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: assets/res/models/units/npc/hans/materials/npc_hans_share.unity3d
+      Dependencies:
+        Dependency_0: assets/res/models/units/npc/hans/texture/npc_hans_share.unity3d
+    Info_5:
+      Name: assets/bundles/ui/testwnd.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: assets/bundles/ui/uiroot.unity3d
+      Dependencies: {}

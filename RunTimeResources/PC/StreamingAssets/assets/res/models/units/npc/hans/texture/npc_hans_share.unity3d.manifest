@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2448744174
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc368e8dd8371fc0a0b74779e2579be4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4cd0a5558493b0679e071c141fc729a3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Models/Units/Npc/hans/Texture/npc_hans.tga
+Dependencies: []
